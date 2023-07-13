@@ -44,3 +44,10 @@ int[] array;
 array = InputArray(length);
 PrintArray(array);
 Console.WriteLine($"Количество чисел в массиве > 0:  {GetPositiveNumbers(array)}");
+
+
+
+
+
+// Console.Write("Введите числа через запятую: ");
+// int[] numbers = StringToNum(Console.ReadLine());
